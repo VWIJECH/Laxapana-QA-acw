@@ -79,3 +79,5 @@ Go this link: https://wiki.saucelabs.com/display/DOCS/Platform+Configurator#/
 Go to Travis CI https://travis-ci.org/Pearson-Higher-Ed/ux-test-platform/builds/<last_build_run_id&gt;
 
 Look for TESTS section.
+
+test
