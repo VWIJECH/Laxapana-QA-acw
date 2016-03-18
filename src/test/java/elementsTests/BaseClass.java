@@ -41,7 +41,7 @@ public class BaseClass {
 
         caps = new DesiredCapabilities();
 
-     // //The below conditions is to set capabilities for desktop run and in testng.xml -> set mobile to 'off'/groups to 'desktop' and desktop to 'on' and followed by platform details
+      //The below conditions is to set capabilities for desktop run and in testng.xml -> set mobile to 'off'/groups to 'desktop' and desktop to 'on' and followed by platform details
         if (runEnv.equals("sauce")) {
 
             if (desktop.equals("on")) {
